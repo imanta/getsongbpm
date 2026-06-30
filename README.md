@@ -1,4 +1,4 @@
 # getsongbpm
 GetSongBPM Public Page
 
-BPM data powered by GetSongBPM https://getsongbpm.com/
+This project uses data from GetSongBPM: https://getsongbpm.com/
